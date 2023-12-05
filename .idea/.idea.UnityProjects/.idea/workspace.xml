@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adc8eb1f-d8c4-4080-8552-9122b04c3dfe" name="Changes" comment="" />
+    <list default="true" id="adc8eb1f-d8c4-4080-8552-9122b04c3dfe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Source/Decorator/ClassicHotdog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Source/Decorator/ClassicHotdog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Source/Decorator/Hotdog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Source/Decorator/Hotdog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Source/Decorator/HotdogDebugger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Source/Decorator/HotdogDebugger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Source/Decorator/HotdogDecorator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Source/Decorator/HotdogDecorator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Source/Decorator/MeatHotdog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Source/Decorator/MeatHotdog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Source/Decorator/PicklesHotdog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Source/Decorator/PicklesHotdog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Source/Decorator/SweetOnionsHotdog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Source/Decorator/SweetOnionsHotdog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Source/Decorator/СaesarHotdog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Source/Decorator/СaesarHotdog.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +21,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30adf90198bc4c4b83910c6fb1877998174000/09/31df800f/UnityEventBase.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30adf90198bc4c4b83910c6fb1877998174000/11/1fc41705/InvokableCallList.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30adf90198bc4c4b83910c6fb1877998174000/fb/5f5e4763/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../My project/Assets/_Source/CrystalSystem/Data/BasicCrystal.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../My project/Assets/_Source/LargeNumbers/LargeNumber.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -72,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701726352796</updated>
       <workItem from="1701726360622" duration="11202000" />
-      <workItem from="1701799951666" duration="1215000" />
+      <workItem from="1701799951666" duration="6507000" />
     </task>
     <servers />
   </component>
