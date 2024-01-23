@@ -1,11 +1,7 @@
-using UnityEngine;
-
 namespace Core
 {
-    public class Bootstrapper : MonoBehaviour
+    public class Bootstrapper
     {
-        private void Awake(){
-    
-        }
+        
     }
 }
