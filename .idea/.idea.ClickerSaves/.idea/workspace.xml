@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adc8eb1f-d8c4-4080-8552-9122b04c3dfe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityProjects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Source/Core.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Source/Core/Bootstrapper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Source/Core/Bootstrapper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Source/Core/Installers.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Source/Core/Installers/MainInstaller.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Source/Core/Installers/MainInstaller.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Source/Utils.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Source/Utils/Extensions.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Source/Utils/Extensions/.idea/.idea.Extensions.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Source/Utils/Extensions/.idea/.idea.Extensions.dir/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Source/Utils/Extensions/.idea/.idea.Extensions.dir/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Source/Utils/Extensions/.idea/.idea.Extensions.dir/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Source/Utils/Extensions/Extensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Source/Utils/Extensions/Extensions.cs.meta" beforeDir="false" />
+    <list default="true" id="d81bfa84-7553-4b04-9348-da54ca4d3544" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClickerSaves/.idea/indexLayout.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +10,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30adf90198bc4c4b83910c6fb1877998174000/09/31df800f/UnityEventBase.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30adf90198bc4c4b83910c6fb1877998174000/11/1fc41705/InvokableCallList.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30adf90198bc4c4b83910c6fb1877998174000/a4/0e37a7c8/IJobParallelForTransform.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30adf90198bc4c4b83910c6fb1877998174000/fb/5f5e4763/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../My project/Assets/_Source/Core/Installers/MainInstaller.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../My project/Assets/_Source/CrystalSystem/Data/BasicCrystalSO.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Source/SaveSystem/SaveController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Source/SaveSystem/SaveTypes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Source/SaveSystem/Savers/ISaver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Source/ScoreSystem/Data/ScoreSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Selectable.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Z5ygyXtpW6044P9WFdsHzUiBIi" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="2ailV1b0HWlVvOd6H1HusuvcrCp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,8 +38,8 @@
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="X:\Unity\Versions\2022.3.13f1\Editor\Unity.exe" />
-      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath X:\Unity\Projects\Git\UnityProjects -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
-      <option name="WORKING_DIRECTORY" value="X:\Unity\Projects\Git\UnityProjects" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath X:\Unity\Projects\Git\ClickerSaves -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="X:\Unity\Projects\Git\ClickerSaves" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <method v="2" />
@@ -82,14 +68,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="adc8eb1f-d8c4-4080-8552-9122b04c3dfe" name="Changes" comment="" />
-      <created>1701726352796</created>
+      <changelist id="d81bfa84-7553-4b04-9348-da54ca4d3544" name="Changes" comment="" />
+      <created>1704809303341</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1701726352796</updated>
-      <workItem from="1701726360622" duration="11202000" />
-      <workItem from="1701799951666" duration="1215000" />
-      <workItem from="1709714447231" duration="894000" />
+      <updated>1704809303341</updated>
+      <workItem from="1704809309069" duration="8101000" />
+      <workItem from="1705984917051" duration="3162000" />
+      <workItem from="1706011901586" duration="1000" />
     </task>
     <servers />
   </component>
